@@ -20,6 +20,7 @@ npm install
 ```
 #### copy .env
 ```
+
 copy .env.example .env
 ```
 #### generate application key
